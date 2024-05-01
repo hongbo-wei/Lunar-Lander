@@ -1,0 +1,18 @@
+box2d-py
+collections
+deque
+namedtuple
+numpy
+gym
+gym[box2d]
+pillow  # PIL.Image is part of Pillow
+tensorflow
+keras
+pyvirtualdisplay  # Optional, depending on your environment
+imageio
+imageio[ffmpeg]
+imageio[pyav]
+ipython
+matplotlib
+pandas
+statsmodels
