@@ -1,18 +1,15 @@
-box2d-py
-collections
-deque
-namedtuple
-numpy
-gym
+box2d-py==2.3.8
+numpy==1.26.4
+gym==0.26.2
 gym[box2d]
-pillow  # PIL.Image is part of Pillow
-tensorflow
-keras
-pyvirtualdisplay  # Optional, depending on your environment
-imageio
-imageio[ffmpeg]
+pillow==10.3.0
+tensorflow==2.16.1
+keras==3.3.3
+PyVirtualDisplay==3.0
+imageio==2.34.1
+imageio-ffmpeg==0.4.9
 imageio[pyav]
-ipython
-matplotlib
-pandas
-statsmodels
+ipython==8.24.0
+matplotlib==3.8.4
+pandas==2.2.2
+statsmodels==0.14.2
